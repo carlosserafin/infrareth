@@ -6,6 +6,9 @@ InfraRETH rewards each HODLER with a significantly larger share of every auction
 
 https://www.infrareth.com/
 
+ETHMEXICO 2022 first InfraRETH Auction: https://opensea.io/assets/ethereum/0x57307b0501d5a08ba7c3cf3d46a3cb1fb10345fe/1
+
+
 # NFT ERC721 Collection
 
 An all-in-one solution for `ERC721` collections. Build, test and deploy your smart contract, together with a totally
