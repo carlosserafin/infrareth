@@ -4,6 +4,8 @@ InfraRETH is the artistic movement that seeks equality and people inclusion in o
 
 InfraRETH rewards each HODLER with a significantly larger share of every auction if linked to WorldCoin (this will give authenticity to your personal InfraRETH picture), giving more value to your stake inside InfraRETH DAO. Percentage of each auction and secondary market royalties will go through SuperFluid to support institutions, individuals, students, communities that are in situations of marginalization or social inequality.
 
+https://www.infrareth.com/
+
 # NFT ERC721 Collection
 
 An all-in-one solution for `ERC721` collections. Build, test and deploy your smart contract, together with a totally
