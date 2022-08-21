@@ -1,6 +1,8 @@
 # InfraRETH - an Inclusive and Movement for Equality using NFTs and Infrared Photography 
 
-InfraRETH is a movement for equality and people inclusion in order to see more than what our eyes can see through infrared photography combined with NFTs and a roadmap full of education events, descentralized experiences opening opportunities in places where this blockchains, Ethereum, Polygon, and all ETH tecnologies are unknown.
+InfraRETH is the artistic movement that seeks equality and people inclusion in order to see more than what our eyes can see through infrared photography combined with NFTs and a roadmap full of education events, descentralized experiences opening opportunities in places where blockchains, Ethereum, Polygon, and all ETH tecnologies are unknown.
+
+InfraRETH rewards each HODLER with a significantly larger share of every auction if linked to WorldCoin (this will give authenticity to your personal InfraRETH picture), giving more value to your stake inside InfraRETH DAO. Percentage of each auction and secondary market royalties will go through SuperFluid to support institutions, individuals, students, communities that are in situations of marginalization or social inequality.
 
 # NFT ERC721 Collection
 
