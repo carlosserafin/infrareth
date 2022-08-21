@@ -1,0 +1,8 @@
+node_modules
+public/build
+.DS_store
+DS_store
+smart-contract/node_modules
+minting-dapp/node_modules
+infrareth-dapp/node_modules
+smart-contract/.env
